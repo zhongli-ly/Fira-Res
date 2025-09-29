@@ -53,17 +53,7 @@ We’re not responsible for downtime, errors, or data loss.
 
 ---
 
-5. Liability
-
-Use Fira at your own risk.
-
-We are not liable for damages or misuse caused by users or third parties.
-
-
-
----
-
-6. Termination
+5. Termination
 
 We may restrict or remove access if you break these Terms or abuse the bot.
 
