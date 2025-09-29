@@ -1,0 +1,113 @@
+Privacy Policy for Fira
+
+Last Updated: 29 September 2025
+
+Fira is a Discord music bot made by Fira Development (“we”, “us”, “our”).
+By using Fira, you agree to this Privacy Policy.
+
+
+---
+
+1. What We Collect
+
+Fira only collects data needed to work properly:
+
+User ID – to save your settings
+
+Server ID – to store server configs (prefix, DJ role, etc.)
+
+Track info – like song name and URL (temporary only)
+
+Feature data – like 24/7 mode, autoplay, or saved queues (if used)
+
+
+
+---
+
+2. How We Use Data
+
+We use this data to:
+
+Play music and remember your preferences
+
+Fix bugs and improve features
+
+Stop abuse and protect the bot
+
+✅ Prevent Fira from being invited into fake or unauthorized guilds
+
+🚫 Block any attempt to copy, clone, or skid the bot
+
+
+We never sell, share, or misuse your data.
+
+
+---
+
+3. Third-Party Services
+
+Fira uses:
+
+YouTube
+
+Spotify
+
+SoundCloud
+
+
+We only fetch what’s needed (song titles, artists, etc.) and don’t store personal data from them.
+Each has its own privacy policy.
+
+
+---
+
+4. Data Storage
+
+Stored securely in our database
+
+Temporary data is deleted automatically
+
+You can ask us to delete your data anytime
+
+
+
+---
+
+5. Security
+
+We protect your data using standard security.
+No system is 100% safe — use Fira responsibly.
+
+
+---
+
+6. Your Rights
+
+You can:
+
+See what data we have
+
+Ask to delete it
+📩 Email: firadevelopment200@gmail.com
+💬 Discord: deepjyoti.exe
+
+
+
+---
+
+7. Age Limit
+
+Fira is only for users 13+ (as per Discord’s Terms).
+
+
+---
+
+8. Updates
+
+We can update this policy anytime.
+If you keep using Fira, you accept the changes.
+
+
+---
+
+✅ By using Fira, you agree to this Privacy Policy.
